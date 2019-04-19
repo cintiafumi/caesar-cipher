@@ -1,14 +1,17 @@
 # Codenation AceleraDev Challenge
 
-## [Caesar Decipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+## [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
 The cipher alphabet is the plain alphabet rotated left or right by some number of positions. For example, considering a right shift of 3:
 
 Plaintext:  the quick brown fox jumps over the lazy dog
+
 Ciphertext: qeb nrfzh yoltk clu grjmp lsbo qeb ixwv ald
 
 ## Rules
 The cipherText (cifrado) and the shift number (numero_casas) was given by [Codenation](https://www.codenation.dev) API.
+
 The alphabetic characters will be left shift by the given shift number.
+
 The special characters will be keep as the same.
 
 ## Get and run this project
